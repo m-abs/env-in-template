@@ -1,4 +1,4 @@
-# @mabs.dk/env-in-template
+# @nota/env-in-template
 
 Simple script to inject variables from shell ENV into a file.
 
