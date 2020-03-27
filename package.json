@@ -1,6 +1,6 @@
 {
   "name": "@nota/env-in-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": {
     "env-in-template": "dist/bin/env-in-template.js"
