@@ -14,7 +14,6 @@
     ],
     "interface-name": false,
     "max-classes-per-file": false,
-    "max-line-length": [true, 160],
     "no-arg": true,
     "no-inferrable-types": true,
     "no-require-imports": true,
